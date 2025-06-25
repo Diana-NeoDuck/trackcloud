@@ -1,2 +1,7 @@
-# trackcloud
-trackcloud-web (logistic platform)
+# TrackCloud
+Plataforma de gestión logística en la nube.
+
+## Tecnologías
+- Next.js
+- Supabase
+- Vercel
