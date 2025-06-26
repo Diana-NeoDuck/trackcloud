@@ -1,6 +1,6 @@
 'use client'
 import { useEffect, useState } from 'react'
-import { supabase } from 'src/lib/supabase.ts'
+import { supabase } from './src/lib/supabase.ts'
 import { useRouter } from 'next/navigation'
 import { FiTruck, FiPackage, FiFileText, FiLogOut } from 'react-icons/fi'
 
